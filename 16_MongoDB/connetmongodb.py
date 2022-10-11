@@ -10,6 +10,11 @@ dict = {
     'Last name' : 'Raj'
 }
 
+dict2 = {
+    'College' : 'St Stephens college',
+    'City' : 'New Delhi'
+}
+
 
 db1 = client['mongotest']
 coll = db1['test']
